@@ -11,16 +11,16 @@
 // or "j", otherwise, the program should say "Good Bye". So, the final output
 // on the console should look like this:
 /*
-Hello Yaakov
+Hello athul
 Good Bye John
-Good Bye Jen
-Good Bye Jason
-Hello Paul
-Hello Frank
-Hello Larry
-Hello Paula
-Hello Laura
-Good Bye Jim
+Good Bye Jaise
+Good Bye sree
+Hello kiran
+Hello sree
+Hello hari
+Hello sofia
+Hello ankit
+Good Bye ediee
 
 WARNING!!! WARNING!!!
 The code does NOT currently work! It is YOUR job to make it work
@@ -35,7 +35,7 @@ WARNING!!! WARNING!!!
 // See Lecture 52, part 2
 // (Note, Step 2 will be done in the SpeakHello.js file.)
 
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["athul", "John", "kiran", "sree", "hari", "jaise", "sofia", "ankit", "ediee"];
 
 // STEP 10:
 // Loop over the names array and say either 'Hello' or "Good Bye"
