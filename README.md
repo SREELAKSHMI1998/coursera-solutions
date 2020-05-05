@@ -6,3 +6,8 @@ assignment module 3 solutions :https://sreelakshmi1998.github.io/coursera-soluti
 ********************************************************************
 
 assignment module 4 solutions : https://sreelakshmi1998.github.io/coursera-solutions/module_4/index.html
+
+*************************************************************************
+
+assignment module 5 solution : https://sreelakshmi1998.github.io/coursera-solutions/module_5/index.html
+
